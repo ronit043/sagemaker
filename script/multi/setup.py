@@ -57,7 +57,7 @@ def multi_widgets():
         f"curl -sLo {img} https://github.com/gutris1/segsmaker/raw/main/script/loading.png",
         f"curl -sLo {mark} https://github.com/gutris1/segsmaker/raw/main/script/multi/marking.py",
         f"curl -sLo {A1111} https://github.com/gutris1/segsmaker/raw/main/script/multi/A1111.py",
-        f"curl -sLo {Forge} https://github.com/gutris1/segsmaker/raw/main/script/multi/Forge.py",
+        f"curl -sLo {Forge} https://github.com/ronit043/sagemaker/raw/main/script/multi/Forge.py",
         f"curl -sLo {ComfyUI} https://github.com/gutris1/segsmaker/raw/main/script/multi/ComfyUI.py"]
 
     for y in x:
