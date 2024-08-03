@@ -53,7 +53,7 @@ def multi_widgets():
         src.mkdir(parents=True, exist_ok=True)
 
     x = [
-        f"curl -sLo {css_setup} https://github.com/gutris1/segsmaker/raw/main/script/multi/setup.css",
+        f"curl -sLo {css_setup} https://github.com/ronit043/sagemaker/raw/main/script/multi/setup.css",
         f"curl -sLo {img} https://github.com/gutris1/segsmaker/raw/main/script/loading.png",
         f"curl -sLo {mark} https://github.com/gutris1/segsmaker/raw/main/script/multi/marking.py",
         f"curl -sLo {A1111} https://github.com/gutris1/segsmaker/raw/main/script/multi/A1111.py",
